@@ -1,6 +1,10 @@
-Second Deployment:
+# Cop 3003 Programming II - Platformer
 
-I have removed the title screen, for now, and are focusing more on the mechanics.
-The player can now move(Jumping will be added later).
-Added collision so the player doesn't fall of screen along with other games physics that allow the player to move smoothly.
-The next steps will be to generate maps/worlds add obstacles/enemies and integrate animations.
+# Project Functionality
+- This project is a simple platformer game that uses onject oriented programming.
+
+# Project Reason
+- I decided this to be my project simply because it peaked my interest.
+
+# List of Maintainers
+- arnulfov
